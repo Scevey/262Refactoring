@@ -241,8 +241,6 @@ public class Lane extends Thread implements PinsetterObserver {
 				
 				
 				System.out.println("result was: " + result);
-				
-				// TODO: send record of scores to control desk
 				if (result == 1) {					// yes, want to play again
 					resetScores();
 					resetBowlerIterator();

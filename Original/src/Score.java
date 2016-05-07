@@ -17,11 +17,6 @@ public class Score {
 		this.date=date;
 		this.score=score;
     }
-
-    public String getNickName() {
-        return nick;  
-    }
-
 	public String getDate() {
 		return date;
 	}
