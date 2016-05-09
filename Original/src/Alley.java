@@ -22,7 +22,7 @@
 
 /**
  *  Class that is the outer container for the bowling sim
- *
+ * nice
  */
 
 public class Alley {
